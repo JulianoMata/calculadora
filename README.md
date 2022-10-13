@@ -1,26 +1,26 @@
-# calculadora-simples
+# calculadora-jfmatta
 
 Description.
 
-| O pacote calculadora-simples é usado para:                                                                                                                                                                                                                                                  |
+| O pacote calculadora-jfmatta é usado para:                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cálculos simples:<br />                 - Soma <br />                 - Subtração<br />                 - Multiplicação<br />                 - Divisão<br />                 - Potenciação <br />                 - Módulo. |
 
 ## Instalação
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calculadora-jfmatta
 
 ```bash
-pip install calculadora-simples
+pip install calculadora-jfmatta
 ```
 
 ## Usado
 
 ```python
-from calculadora-simples import calculadora
+from calculadora-jfmatta import calculadora
 calculadora.calcular()
 
-from calculadora-simples import calculadora
+from calculadora-jfmatta import calculadora
 calculadora.continuar_calculo()
 ```
 

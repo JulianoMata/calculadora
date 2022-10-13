@@ -7,11 +7,11 @@ with open("README.md", "r") as f:
 #     requirements = f.read().splitlines()
 
 setup(
-    name="calculadora-simples",
+    name="calculadora-jfmatta",
     version="0.0.1",
     author="JulianoMata",
     author_email="jfmatta@gmail.com",
-    description="Calculos simples",
+    description="Cálculos simples",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/JulianoMata/calculadora",
