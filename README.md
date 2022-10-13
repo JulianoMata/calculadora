@@ -1,27 +1,33 @@
-# package_name
+# calculadora-simples
 
 Description. 
-The package package_name is used to:
-	- 
-	-
 
-## Installation
+| O pacote calculadora-simples é usado para:                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cálculos simples:<br />                 - Soma <br />                 - Subtração<br />                 - Multiplicação<br />                 - Divisão<br />                 - Potenciação <br />                 - Módulo. |
+
+## Instalação
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install calculadora-simples
 ```
 
-## Usage
+## Usado
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from calculadora-simples import calculadora
+calculadora.calcular()
+
+from calculadora-simples import calculadora
+calculadora.continuar_calculo()
 ```
 
 ## Author
-My_name
 
-## License
+JulianoMata
+
+## Licença
+
 [MIT](https://choosealicense.com/licenses/mit/)
