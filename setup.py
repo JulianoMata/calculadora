@@ -7,7 +7,7 @@ with open("README.md", "r") as f:
 #     requirements = f.read().splitlines()
 
 setup(
-    name="calculadora-jfmatta",
+    name="calculadora_jfmatta",
     version="0.0.3",
     author="JulianoMata",
     author_email="jfmatta@gmail.com",
@@ -17,5 +17,5 @@ setup(
     url="https://github.com/JulianoMata/calculadora",
     packages=find_packages(),
     # install_requires=requirements,
-    python_requires='>=3.8',
+    python_requires='>=3.6',
 )

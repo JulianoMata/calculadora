@@ -9,8 +9,8 @@ Digite o tipo de operação matemática desejada: \n
 \033[1;49;35m[ % ] Módulo\033[m
 """)
 
-    primeiro_numero = float(input(f"\033[1;49;36mDigite um número: \033[m\n"))
-    segundo_numero = float(input(f"\033[1;49;36mDigite outro número: \033[m\n"))
+    primeiro_numero = int(input(f"\033[1;49;36mDigite um número: \033[m\n"))
+    segundo_numero = int(input(f"\033[1;49;36mDigite outro número: \033[m\n"))
 
     if operacao == "+":
         resultado = primeiro_numero + segundo_numero
