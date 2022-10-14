@@ -1,12 +1,17 @@
-# calculadora-jfmatta
+### calculadora-jfmatta
 
-Description.
+#### Description.
 
-| O pacote calculadora-jfmatta é usado para:                                                                                                                                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cálculos simples:<br />                 - Soma <br />                 - Subtração<br />                 - Multiplicação<br />                 - Divisão<br />                 - Potenciação <br />                 - Módulo. |
+The package calculadora-jfmatta is used for:Simple calculations:
 
-## Instalação
+- Sum
+- Subtraction
+- Multiplication
+- Division
+- Potentiation 
+- Module.
+
+#### Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calculadora-jfmatta
 
@@ -14,7 +19,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calcula
 pip install calculadora-jfmatta
 ```
 
-## Usado
+#### Used
 
 ```python
 from calculadora-jfmatta import calculadora
@@ -24,10 +29,10 @@ from calculadora-jfmatta import calculadora
 calculadora.continuar_calculo()
 ```
 
-## Author
+#### Author
 
 JulianoMata
 
-## Licença
+#### License
 
 [MIT](https://choosealicense.com/licenses/mit/)

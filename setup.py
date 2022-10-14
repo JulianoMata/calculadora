@@ -8,7 +8,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="calculadora-jfmatta",
-    version="0.0.1",
+    version="0.0.3",
     author="JulianoMata",
     author_email="jfmatta@gmail.com",
     description="Cálculos simples",
